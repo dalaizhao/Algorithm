@@ -4,12 +4,10 @@
 
 ## 训练目标：  
 
-本年度目标： 打上LeetCode全球排名前200名。  
-
-[并附上自己LeetCode主页](https://leetcode.com/dalai_z/)   
+就喜欢脑洞大开、解决问题的的感觉^_^
 
 ## 文件夹  
 
-1. JianZhi文件夹包含了66道经典的算法，全部java实现。  
+1. JianZhi文件夹包含了剑指66道经典的算法，全部java实现。  
 
-2. LeetCode包含了平时训练的代码，和 LeetCode Weekly Contest的代码。  
+2. 其它是LeetCode平时训练代码 和 LeetCode Weekly Contest的代码，还有1_50之类只是容量，非编号。 
