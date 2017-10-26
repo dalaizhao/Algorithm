@@ -2,8 +2,6 @@ package com.dalai.par;
 
 import java.util.Arrays;
 
-import javax.imageio.ImageTypeSpecifier;
-
 public class _3SumClosest {
 
 	/*
