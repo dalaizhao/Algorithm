@@ -2,8 +2,8 @@
 
 **[计算机科学中最重要的32个算法](http://www.infoq.com/cn/news/2012/08/32-most-important-algorithms)**  
 
-## 文件夹  
+## 注释  
 
-1. JianZhi文件夹包含了剑指66道经典的算法，全部java实现。  
+1. jianzhi : 剑指offer的66道经典的算法，全部java实现。  
 
-2. 其它是LeetCode平时训练代码 和 LeetCode Weekly Contest的代码，还有1_50之类只是容量，非编号。 
+2. leetcode : 平时训练代码，包括java、C、Golang等实现，包括leetcode周末比赛（LeetCode Weekly Contest）的代码。 
