@@ -1,0 +1,8 @@
+*.php.swp
+*.php.un~
+*.php.bak
+.buildpath
+.project
+.settings/
+.idea
+/node_modules/
